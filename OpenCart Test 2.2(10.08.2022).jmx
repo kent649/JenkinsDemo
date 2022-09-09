@@ -296,7 +296,7 @@
           </HeaderManager>
           <hashTree/>
           <GaussianRandomTimer guiclass="GaussianRandomTimerGui" testclass="GaussianRandomTimer" testname="Gaussian Random Timer" enabled="true">
-            <stringProp name="ConstantTimer.delay">3000</stringProp>
+            <stringProp name="ConstantTimer.delay">5000</stringProp>
             <stringProp name="RandomTimer.range">600</stringProp>
           </GaussianRandomTimer>
           <hashTree/>
